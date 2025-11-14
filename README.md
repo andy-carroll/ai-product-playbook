@@ -1,4 +1,4 @@
-# The AI Product Builder
+# The AI Product Playbook
 
 A friendly, hands-on path to building your first AI-powered product — even if you’ve never coded, used GitHub, or touched an AI IDE before.
 
