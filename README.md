@@ -21,17 +21,12 @@ This is a learn-by-doing journey that teaches you how to think, plan, and build 
 
 You’ll learn how to:
 
-Shape a clear product idea
-
-Understand who you're building for
-
-Avoid the traps most beginners fall into
-
-Create your first working prototype
-
-Develop your product step-by-step
-
-Build confidence and momentum as you go
+- Shape a clear product idea
+- Understand who you're building for
+- Avoid the traps most beginners fall into
+- Create your first working prototype
+- Develop your product step-by-step
+- Build confidence and momentum as you go
 
 All with tools you can use right now.
 
