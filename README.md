@@ -1,111 +1,103 @@
 # The AI Product Playbook
 
-A friendly, hands-on path to building your first AI-powered product — even if you’ve never coded, used GitHub, or touched an AI IDE before.
+A simple, hands-on path to building your first AI‑powered product without getting lost in hype, mess, or magic‑prompt promises - even if you've never coded, used GitHub, or touched an AI development tool before.
 
-## Welcome — you’re in the right place
+## Why this playbook exists
 
-If you have a product idea in your head, a problem you want to solve, or a workflow you want to improve, but you’re not sure where to start…
+Every day you see some version of:
 
-This guide shows you exactly what to do, step by step.
+> "Anyone can now ship a million‑dollar app in a weekend with AI."
 
-There’s no jargon.
-There’s no assumed knowledge.
-You don’t need technical skills.
-You don’t need to understand GitHub.
+Yes, anyone can now open an AI tool and generate impressive code.
+No, that does **not** mean you can skip product thinking and still expect a sustainable, useful product.
 
-Everything here is designed to be simple, clear, and practical.
+You don’t need to become a full‑stack engineer.
+You *do* need just enough product and systems thinking to avoid crashing the car into the wall.
 
-## What this is
+This playbook gives you that thin, practical layer:
 
-This is a learn-by-doing journey that teaches you how to think, plan, and build like a modern product creator — using AI tools that make the process easier and far more accessible.
+- clear thinking before code
+- lightweight structure instead of chaos
+- AI as a coach, not a vending machine
 
-You’ll learn how to:
+Maybe you’ve already paid an agency or freelancer to "build it for you" and ended up with something fragile, half‑finished, or nothing at all — plus all the knowledge walked out the door when they did. This playbook takes the opposite approach: it keeps the product thinking, decisions, and documentation in your hands so that any specialist you hire later plugs into *your* system, instead of you being dependent on theirs.
 
-- Shape a clear product idea
-- Understand who you're building for
-- Avoid the traps most beginners fall into
-- Create your first working prototype
-- Develop your product step-by-step
-- Build confidence and momentum as you go
+## Who this is for
 
-All with tools you can use right now.
+This repo is for you if:
 
-## What this isn’t
+- you have an idea, side project, or workflow you want to improve
+- you’re not a career engineer (or you are, but not a product person)
+- you’re comfortable with tools like ChatGPT / Claude, but unsure how to use them to build something real
+- you want a path that respects your time and doesn’t drown you in jargon or tooling
 
-This is not about:
+You don’t need to understand GitHub, IDEs, or frameworks to get started.
 
+## What you’ll learn (by doing)
+
+Through short, guided exercises you will:
+
+- shape a crisp product idea
+- define exactly who you’re building for and why it matters now
+- map the simplest end‑to‑end user flow
+- avoid the classic “AI auto‑generated app” failure modes
+- ship a first working prototype using beginner‑friendly tools
+- build habits for working with AI as a thinking partner, not just a shortcut
+
+All with tools you can use today.
+
+## How this is different
+
+This is **not**:
+
+- another bag of clever prompts
+- yet another boilerplate code repo you’re scared to touch
 - “vibe coding” without a plan
-- messy auto-generated apps that break immediately
-- hype
-- hacks
-- shortcuts that fall apart
+- messy auto‑generated apps that break immediately
+- hacks and shortcuts that fall apart the moment you change anything
 
-The goal here is clarity, simplicity, progress, and real outcomes.
+Instead, the prompts and guides here:
 
-## How to use this guide
+- treat the AI tool as a **patient coach** (product strategist, UX designer, engineer, growth partner, etc.)
+- ask you the questions you wouldn’t think to ask yourself
+- document decisions and next steps as you go
+- build your product *and* your skills at the same time
 
-You’ll progress through a short series of practical steps.
+You’re not just getting outputs; you’re learning how to orchestrate AI and human work together – the core skill of the next decade.
 
-Each step helps you produce something real — not just read about it.
+## How the playbook is organised
 
-You’ll start with a simple exercise inside ChatGPT that takes about 30 minutes and gives you your first “aha” moment: a clear, structured product idea that finally makes sense.
+The repo is intentionally simple:
 
-After that, you’ll try tiny builds using beginner-friendly tools like:
+- **`guides/00-playground-build.md`**  
+  Everyone starts here. Use a light coaching prompt to pick a tiny, real problem from your life, then build and **deploy** a small, genuinely useful app in an AI playground (we suggest Google AI Studio).
 
-- Lovable
-- Bolt
-- v0
-- Replit
+- **`start-here/START-HERE.md`**  
+  Your next 30 minutes. A product‑thinking interview that deepens whichever idea you now care about, and turns it into a clearer, more deliberate product brief.
 
-And once you’re ready, you can explore AI coding environments like Cursor or Claude Code — but only when the time is right, and never before you feel confident.
+- **`guides/01-product-thinking.md`**  
+  Builds on that brief and helps you shape a version‑1 that an AI (or a future team‑mate) can actually help you build and evolve.
 
-## Your first step: The 30-Minute Product Interview
+- **`templates/`**  
+  Lightweight worksheets and scripts you can copy into your own notes or tools.
 
-This is where everything begins.
+You can read everything in plain Markdown. No IDE required.
 
-It’s simple:
-ChatGPT will ask you the right questions in the right order and help you shape your idea into a clear, practical product brief.
+## Recommended sequence
 
-You don’t need anything else.
-Just click below and follow the guided conversation.
-
-👉 Start the 30-Minute Product Interview
-
-## What you’ll have by the end
-
-By the time you finish the early steps, you will have:
-
-- A clear product idea
-- A defined user
-- A simple set of use cases
-- A product plan
-- Your first prototype
-- A sense of momentum
-- A feeling of: “I can actually do this.”
-
-And that’s the whole point — to turn uncertainty into capability, fast.
-
-A living, growing project
-
-This isn’t a static book.
-
-New guides, examples, walkthroughs, videos, and templates will be added regularly - and you can contribute too.
-
-This is a community-led resource designed to grow with you.
-
-## Ready? Let’s begin
-
-The first step is simple and genuinely enjoyable.
-
-👉 Start here: 30-Minute Product Interview
-
-Once you’ve completed it, you’ll know exactly what to do next.
+1. **Playground Build – Guide 00**  
+   `guides/00-playground-build.md`
+2. **Product Thinking Interview**  
+   `start-here/START-HERE.md`
+3. **Guide 01 – Product Thinking**  
+   `guides/01-product-thinking.md`
 
 ## If you’re building seriously
 
-If you want accountability, direction, and tailored guidance for turning a product idea into something real — there’s a coaching programme built specifically for that.
-You’ll find details inside the later steps.
+If you already know you want more than a free playbook – accountability, reviews, and tailored guidance to take a product from idea to launch over 12 weeks – there is a coaching programme that uses this exact system as its foundation.
 
-For now, focus on getting started. You’ll gain more in the first 30 minutes than most people do in a week of trying alone.
+You’ll find details inside the later guides.
+
+For now, start with the first 30 minutes. You’ll get more clarity from that than from a week of scrolling “AI build” threads.
 
 🚀
