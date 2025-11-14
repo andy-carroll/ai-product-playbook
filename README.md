@@ -34,15 +34,11 @@ All with tools you can use right now.
 
 This is not about:
 
-“vibe coding”
-
-messy auto-generated apps that break immediately
-
-hype
-
-hacks
-
-shortcuts that fall apart
+- “vibe coding” without a plan
+- messy auto-generated apps that break immediately
+- hype
+- hacks
+- shortcuts that fall apart
 
 The goal here is clarity, simplicity, progress, and real outcomes.
 
